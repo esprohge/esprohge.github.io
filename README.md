@@ -2,7 +2,7 @@
 
 Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-<href a = "https://nbviewer.jupyter.org/github/esprohge/esprohge.github.io/blob/master/Dataquest%20College%20Degrees%20Visualization%20Project.html"> Project 1 </a>
+<a href = "https://nbviewer.jupyter.org/github/esprohge/esprohge.github.io/blob/master/Dataquest%20College%20Degrees%20Visualization%20Project.html"> Project 1 </a>
 
 <img src="images/demo.gif?raw=true"/>
 
