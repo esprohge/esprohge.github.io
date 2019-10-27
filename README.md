@@ -1,5 +1,9 @@
 ## Erik Sprohge Sample Project Portfolio
 
+<a href =
+"https://nbviewer.jupyter.org/github/esprohge/esprohge.github.io/blob/master/Dataquest%20CIA%20World%20Facts%20SQL%20Project.html">
+SQLite Project </a>
+This project uses SQLite and a Python workflow to explore, analyze, and visualize data from the CIA World Factbook.
 
 <a href = "https://nbviewer.jupyter.org/github/esprohge/esprohge.github.io/blob/master/Dataquest%20College%20Degrees%20Visualization%20Project.html"> Data Visualization Project  </a>
 This project is an example of creating graphs in Python using the matplot library. It explores the gender gap in college degrees.
