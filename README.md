@@ -16,9 +16,7 @@ This project is an example of using Python to sort, reformat, clean, and analyze
 "https://nbviewer.jupyter.org/github/esprohge/esprohge.github.io/blob/master/Dataquest%20eBay%20Car%20Sales%20project.html">  Data Cleaning and Analysis Project 2 </a>
 This project uses the pandas and NumPy libraries in Python to clean and analyze data from a German eBay used car listing file.
 
-<a href =
-"https://nbviewer.jupyter.org/github/esprohge/esprohge.github.io/blob/master/Dataquest%20Employee%20Exit%20Surveys%20Project.html">
-Data Cleaning Projext 3 </a>
+
 
 
 
