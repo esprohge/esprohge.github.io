@@ -20,6 +20,10 @@ This project uses the pandas and NumPy libraries in Python to clean and analyze 
 "https://nbviewer.jupyter.org/github/esprohge/esprohge.github.io/blob/master/Dataquest%20Employee%20Exit%20Surveys%20Project.html"> Employee Exit Surveys Project </a>
 This project involves cleaning and combining two datasets to analyze employee exit surveys in Australia. 
 
+<a href =
+"https://nbviewer.jupyter.org/github/esprohge/esprohge.github.io/blob/master/Dataquest%20Star%20Wars%20Project.html"> Star Wars Survey Project </a>
+This is a fun little project exploring a FiveThirtyEight survey of rankings of the Star Wars films.
+
 
 
 
