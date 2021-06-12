@@ -2,6 +2,8 @@
 
 These projects were completed through my Data Analyst training in Dataquest.
 
+car_price_project (2).ipynb
+
 <a href =
 "https://nbviewer.jupyter.org/github/esprohge/esprohge.github.io/blob/master/Dataquest%20CIA%20World%20Facts%20SQL%20Project.html">
 SQLite Project </a>
